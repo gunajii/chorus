@@ -1,0 +1,18 @@
+{
+  "name": "chorus",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Chorus — a daily crowd-guessing game with private friends leaderboards and an auto question generator.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "2.45.4",
+    "next": "^14.2.35",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  }
+}
